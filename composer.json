@@ -1,0 +1,13 @@
+{
+    "name": "wptailor/papi-property-product",
+    "description": "WP-Papi property that allows you easily to add reference to WooCommerce product or product variation",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Zlatko Zlatev",
+            "email": "zlatko@ralev.com"
+        }
+    ],
+    "require": {}
+}
